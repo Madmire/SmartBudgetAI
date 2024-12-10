@@ -1,0 +1,16 @@
+import requests
+from pymongo import MongoClient
+
+# Connexion MongoDB
+client = MongoClient("mongodb://localhost:27017/")
+db = client["SmartBudget"]
+users_collection = db["Users"]
+
+# Appeler une API publique (exemple)
+api_url = "https://jsonplaceholder.typicode.com/users"
+response = requests.get(api_url)
+users = response.json()
+
+# Insérer les données dans MongoDB
+users_collection.insert_many(users)
+print("Données récupérées et insérées dans MongoDB.")
