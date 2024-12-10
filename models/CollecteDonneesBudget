@@ -1,1 +1,18 @@
+import pandas as pd
+from pymongo import MongoClient
+
+# Charger le fichier CSV
+data = pd.read_csv(r"C:\Users\DELL\Downloads\donnees.csv")  # Assurez-vous de donner le bon chemin du fichier CSV
+
+# Connexion à MongoDB
+client = MongoClient("mongodb://localhost:27017/")
+db = client["SmartBudget"]
+collection = db["budget"]
+
+# Convertir les données en format dictionnaire pour MongoDB
+data_dict = data.to_dict(orient="records")
+
+# Insérer les données dans MongoDB
+collection.insert_many(data_dict)
+print(f"{len(data_dict)} documents ajoutés à MongoDB.")
 
