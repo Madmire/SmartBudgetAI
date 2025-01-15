@@ -1,0 +1,52 @@
+[
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment puis-je optimiser mon budget si mes revenus sont limités ?",
+    "bot": "Commencez par répertorier toutes vos dépenses mensuelles pour identifier celles qui sont superflues. Réduisez les achats non essentiels et renseignez-vous sur les aides et bourses disponibles pour les étudiants afin de compenser vos revenus limités."
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Faut-il privilégier l'épargne ou rembourser un petit crédit étudiant rapidement ?",
+    "bot": "Il est important de trouver un équilibre : si le taux d'intérêt de votre crédit est élevé, privilégiez son remboursement rapide ; sinon, constituer une épargne modeste vous assurera une sécurité financière en cas d'imprévus."
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quels conseils pour réduire mes dépenses en alimentation sans compromettre ma santé ?",
+    "bot": "Planifiez vos repas en dressant une liste de courses adaptée à vos besoins réels, privilégiez les produits de saison et achetez sur les marchés locaux. Cette méthode permet de réduire les coûts tout en maintenant une alimentation équilibrée."
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment puis-je éviter les dépenses imprévues à la fin du mois ?",
+    "bot": "Utilisez une application de suivi quotidien de vos dépenses et définissez des limites budgétaires pour chaque catégorie. Prévoyez également une marge pour les imprévus dans votre budget mensuel afin d'éviter les mauvaises surprises."
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment gérer mes dépenses quand je reçois mon salaire de manière irrégulière ?",
+    "bot": "Établissez un budget basé sur la moyenne de vos revenus sur plusieurs mois, concentrez-vous d'abord sur les dépenses fixes, puis constituez un fonds d'urgence pour pallier les périodes creuses."
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Est-il judicieux d'utiliser des cartes de crédit pour gérer mes paiements mensuels ?",
+    "bot": "Les cartes de crédit peuvent faciliter le suivi de vos dépenses, mais soyez vigilant face aux taux d'intérêt élevés. Assurez-vous de rembourser intégralement chaque mois pour éviter les frais supplémentaires."
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quels conseils pour réduire mes dépenses de loisirs quand on est étudiant ?",
+    "bot": "Privilégiez les activités gratuites ou peu coûteuses, telles que les événements culturels ou universitaires, et fixez un budget mensuel strict pour vos loisirs afin d'éviter les dépenses excessives."
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment puis-je mieux planifier mes dépenses pour éviter le stress financier ?",
+    "bot": "Établissez un budget détaillé en répertoriant tous vos revenus et vos dépenses, et suivez-le régulièrement à l'aide d'un tableur ou d'une application dédiée. Cela vous permettra d'ajuster vos prévisions en fonction des variations et d'anticiper les périodes difficiles."
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Est-ce avantageux d'utiliser des applications de suivi financier pour économiser de l'argent ?",
+    "bot": "Oui, ces applications permettent de visualiser vos dépenses en temps réel, d'identifier les gaspillages et d'ajuster votre budget. Elles offrent souvent des alertes en cas de dépassement, ce qui facilite la gestion de vos finances."
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Que faire si mes dépenses mensuelles dépassent régulièrement mes revenus ?",
+    "bot": "Analysez minutieusement chacune de vos dépenses pour identifier celles qui sont superflues, ajustez votre style de vie et envisagez d'obtenir un revenu complémentaire par un emploi étudiant. Un conseiller financier peut également vous aider à établir un plan d'action."
+  }
+]
