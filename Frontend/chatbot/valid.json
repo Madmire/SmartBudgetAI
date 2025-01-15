@@ -1,0 +1,131 @@
+[
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment créer un budget efficace ? (Valid Exemple 1)",
+    "bot": "Pour créer un budget efficace, commencez par recenser tous vos revenus nets et listez vos dépenses fixes (loyer, abonnements) et variables (alimentation, loisirs). Utilisez la méthode 50/30/20 pour répartir vos ressources et ajustez régulièrement votre budget. (Valid Exemple 1)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quelles étapes suivre pour établir un budget mensuel ? (Valid Exemple 2)",
+    "bot": "Commencez par lister vos revenus et dépenses, puis séparez vos charges fixes des charges variables. Appliquez une méthode comme la règle 50/30/20 pour équilibrer vos finances. Suivez et ajustez votre budget mensuellement. (Valid Exemple 2)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quel processus adopter pour organiser son budget ? (Valid Exemple 3)",
+    "bot": "Organisez votre budget en dressant un bilan de vos revenus et dépenses, puis en classant les dépenses en fixes et variables. Utilisez la méthode 50/30/20 et surveillez régulièrement vos finances pour réaliser des ajustements. (Valid Exemple 3)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment mettre en place un budget réaliste pour un étudiant ? (Valid Exemple 4)",
+    "bot": "Commencez par identifier l'ensemble de vos revenus, listez ensuite vos dépenses fixes et variables, et appliquez une méthode budgétaire comme 50/30/20. Un suivi régulier vous permettra de rester en adéquation avec votre situation financière. (Valid Exemple 4)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quelle méthode utiliser pour créer un budget étudiant ? (Valid Exemple 5)",
+    "bot": "La méthode 50/30/20 est recommandée : allouez 50% de vos revenus aux nécessités, 30% aux dépenses personnelles et 20% à l'épargne. Commencez par recenser vos revenus et dépenses, puis appliquez cette règle. (Valid Exemple 5)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment organiser ses finances grâce à un budget ? (Valid Exemple 6)",
+    "bot": "Organisez vos finances en notant tous vos revenus et en classant vos dépenses entre fixes et variables. Utilisez un outil numérique pour suivre votre budget et appliquez une méthode telle que 50/30/20 pour assurer un équilibre optimal. (Valid Exemple 6)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quelles sont les bases pour élaborer un budget étudiant ? (Valid Exemple 7)",
+    "bot": "Les bases consistent à identifier vos revenus nets, dresser une liste détaillée de vos dépenses fixes et variables, puis appliquer une méthode budgétaire, comme la règle 50/30/20, pour assurer une répartition équilibrée. (Valid Exemple 7)"
+  },
+
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quelles sont les premières étapes pour constituer un fonds d'urgence ? (Valid Exemple 8)",
+    "bot": "Pour constituer un fonds d'urgence, commencez par évaluer vos dépenses essentielles mensuelles, puis fixez-vous un objectif d'épargne équivalent à trois à six mois de dépenses. Automatisez vos virements vers un compte dédié. (Valid Exemple 8)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment créer un fonds d'urgence solide ? (Valid Exemple 9)",
+    "bot": "Créez un fonds d'urgence en identifiant vos dépenses mensuelles indispensables et en économisant progressivement pour atteindre un objectif couvrant trois à six mois. Automatisez vos économies pour faciliter le processus. (Valid Exemple 9)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quelles démarches suivre pour mettre en place un fonds d'urgence ? (Valid Exemple 10)",
+    "bot": "Commencez par calculer vos dépenses essentielles, puis fixez un objectif d'épargne à hauteur de trois à six mois de dépenses. Réduisez les dépenses superflues et automatisez vos virements sur un compte dédié pour constituer votre fonds d'urgence. (Valid Exemple 10)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment constituer un fonds d'urgence quand on est étudiant ? (Valid Exemple 11)",
+    "bot": "Même en tant qu'étudiant, identifiez vos dépenses indispensables et fixez-vous l'objectif d'épargner l'équivalent de trois à six mois de dépenses. Mettez en place des virements automatiques vers un compte d'urgence pour faciliter l'épargne. (Valid Exemple 11)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quels conseils pour épargner en vue d'un fonds d'urgence ? (Valid Exemple 12)",
+    "bot": "Réduisez les dépenses non essentielles et mettez en place des virements réguliers vers un compte séparé. Fixez-vous un objectif d'épargne correspondant à trois à six mois de dépenses essentielles. (Valid Exemple 12)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment planifier la création d'un fonds d'urgence ? (Valid Exemple 13)",
+    "bot": "Pour planifier un fonds d'urgence, commencez par établir vos dépenses mensuelles, fixez un objectif d'épargne sur 3 à 6 mois, et automatisez les virements vers un compte dédié. Cela vous permettra de vous prémunir contre les imprévus. (Valid Exemple 13)"
+  },
+
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment commencer à investir avec un revenu limité ? (Valid Exemple 14)",
+    "bot": "Même avec un revenu limité, il est possible d'investir. Commencez par vous informer sur les bases de l'investissement, puis optez pour des produits comme les ETF ou les fonds indiciels qui nécessitent de faibles montants initiaux. (Valid Exemple 14)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quelles options d'investissement sont adaptées aux petits budgets ? (Valid Exemple 15)",
+    "bot": "Pour un petit budget, privilégiez des produits à faible coût comme les ETF, les fonds indiciels ou les plateformes de micro-investissement. Ces solutions offrent une diversification avec un investissement initial modeste. (Valid Exemple 15)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment investir intelligemment avec peu d'argent ? (Valid Exemple 16)",
+    "bot": "Investissez intelligemment avec un petit budget en commençant par vous éduquer sur les fondamentaux de l'investissement. Ensuite, investissez via des ETF ou des fonds indiciels, et mettez en place des virements automatiques pour investir régulièrement de petites sommes. (Valid Exemple 16)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quelle stratégie adopter pour investir avec un revenu étudiant limité ? (Valid Exemple 17)",
+    "bot": "Adoptez une stratégie basée sur la diversification : investissez régulièrement de petites sommes dans des produits à faible coût, comme les ETF, et profitez de l'effet de capitalisation sur le long terme. (Valid Exemple 17)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quels produits d'investissement conviennent aux investisseurs à petit budget ? (Valid Exemple 18)",
+    "bot": "Les ETF, les fonds indiciels et les robo-advisors sont adaptés aux investisseurs avec peu d'argent. Ils offrent une diversification automatique et permettent de commencer avec de faibles montants. (Valid Exemple 18)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment débuter en investissement avec un budget restreint ? (Valid Exemple 19)",
+    "bot": "Pour débuter, commencez par investir de petites sommes via des ETF ou des fonds indiciels et mettez en place des investissements réguliers. Cette méthode vous permettra de bénéficier de l'effet de capitalisation malgré un budget restreint. (Valid Exemple 19)"
+  },
+
+  
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quels conseils pour éviter l'endettement excessif ? (Valid Exemple 20)",
+    "bot": "Pour éviter l'endettement excessif, élaborez un budget strict, surveillez vos dépenses et évitez les crédits à la consommation. Privilégiez l'épargne et planifiez soigneusement vos achats. (Valid Exemple 20)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment prévenir les dettes en tant qu'étudiant ? (Valid Exemple 21)",
+    "bot": "Pour prévenir les dettes, adoptez une gestion rigoureuse de vos finances en établissant un budget réaliste et en contrôlant vos dépenses. Réévaluez régulièrement vos besoins et évitez les achats impulsifs. (Valid Exemple 21)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quelles pratiques adopter pour ne pas s'endetter ? (Valid Exemple 22)",
+    "bot": "Adoptez des pratiques saines telles que la création d'un budget détaillé, le suivi minutieux de vos dépenses, et limitez l'accès aux crédits non nécessaires. La prévention passe par une gestion proactive de vos finances. (Valid Exemple 22)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment éviter de contracter des dettes inutiles ? (Valid Exemple 23)",
+    "bot": "Évitez de contracter des dettes inutiles en planifiant soigneusement vos achats, en établissant un budget strict et en limitant les emprunts. Privilégiez l'épargne de précaution pour financer les imprévus. (Valid Exemple 23)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Quelles sont les meilleures pratiques pour éviter l'endettement ? (Valid Exemple 24)",
+    "bot": "Les meilleures pratiques incluent l'établissement d'un budget réaliste, la surveillance continue de vos dépenses et l'épargne régulière. Évitez les crédits pour des achats superflus et comparez toujours les offres de prêt. (Valid Exemple 24)"
+  },
+  {
+    "instruction": "Tu es un expert en finances personnelles pour étudiants. Donne des conseils précis et adaptés aux situations courantes des étudiants.",
+    "user": "Comment gérer ses finances pour éviter de s'endetter ? (Valid Exemple 25)",
+    "bot": "Gérez vos finances en créant un budget détaillé, en suivant régulièrement vos dépenses et en limitant les achats impulsifs. Adoptez une discipline financière stricte pour vous prémunir contre l'endettement. (Valid Exemple 25)"
+  }
+]
