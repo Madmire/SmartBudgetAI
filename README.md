@@ -1,3 +1,4 @@
+
 # [Soft UI Dashboard 3](http://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html?ref=readme-sud) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard&text=Check%20Soft%20UI%20Dashboard%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#html%20https://www.creative-tim.com/product/soft-ui-dashboard) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard.svg)](https://github.com/creativetimofficial/soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard.svg)](https://github.com/creativetimofficial/soft-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
@@ -181,3 +182,103 @@ Dribbble: <https://dribbble.com/creativetim>
 TikTok: <https://tiktok.com/@creative.tim>
 
 Instagram: <https://instagram.com/creativetimofficial>
+
+
+# 💸 SmartBudget AI – Votre assistant personnel de gestion budgétaire intelligent
+
+Bienvenue sur **SmartBudget AI**, un projet qui combine intelligence artificielle, data science et UX moderne pour vous aider à **gérer vos finances comme un pro**. Optmisé pour les étudiants, SmartBudget AI apprend de votre comportement pour **vous guider, vous alerter et vous conseiller intelligemment**.
+
+> 🚀 *Un budget maîtrisé, c’est un futur assuré.*
+
+---
+
+## 🧠 À propos du projet
+
+SmartBudget AI est une application web alimentée par un agent IA personnalisé. L’objectif est d’aider l’utilisateur à :
+- Suivre ses revenus et ses dépenses.
+- Recevoir des **conseils financiers personnalisés**.
+- Obtenir des **alertes intelligentes** en cas de dérive budgétaire.
+- Planifier des objectifs d’épargne et suivre leur avancement.
+- Profiter d’**une interface simple, clean et agréable**.
+
+Le tout est propulsé par une IA qui apprend **vos habitudes de consommation**, anticipe vos besoins et **vous aide à mieux dépenser**.
+
+---
+
+## 🛠️ Technologies utilisées
+
+| Stack | Détails |
+|------|---------|
+| 👨‍💻 Frontend | HTML,CSS,Javascript |
+| 🧠 IA | Python , GEMINI Flash 2.0 |
+| 📊 Backend | PHP, FastAPI |
+| 🗄️ Base de données | MySQL |
+
+
+---
+
+## 🧩 Fonctionnalités clés
+
+✅ Dashboard interactif avec vue globale sur les finances  
+✅ Classification automatique des dépenses (Nourriture, Transport, etc.)  
+✅ Prédiction des dépenses futures selon le comportement  
+✅ Recommandations personnalisées basées sur les objectifs  
+✅ Alertes intelligentes en cas de dépassement de seuil  
+✅ Chatbot intégré pour parler à l’IA  
+✅ Système d’objectifs (ex : "épargner 5000 Dhs en 3 mois")  
+✅ Export PDF ou Excel des rapports   
+
+---
+
+## ⚙️ Installation et exécution
+
+### 1. Cloner le repo
+
+```bash
+git clone https://github.com/sanogomamadou/smartbudget_ai.git
+cd smartbudget-ai
+````
+
+### 2. Lancer le frontend
+
+Dans smartbudget_ai_agent/.env remplacez les XXXXXX par vos propres clés API
+```
+API Key Gemini
+GOOGLE_API_KEY=XXXXXXXX
+Mail API Mailgun
+MAIL_API_KEY=XXXXXXXXXX
+```
+
+### 3. Lancer le backend
+
+Placez le document "smartbudget_ai_agent" dans votre dossier xampp au meme niveau que htdocs
+
+```Dans le Terminal tapez
+cd C:/xampp/smartbudget_ai_agent
+pip install -r requirements.txt
+python main.py
+uvicorn main:app --reload
+```
+
+### 4. Lancer le frontend
+
+-Placez le document "smartbudget_ai" dans votre dossier xampp/htdocs
+-Lancez Apache et MySQL dans le XAMPP Control Panel
+```
+cd frontend
+npm install
+npm run dev
+```
+
+### 5. Accéder à l'app
+
+Rendez-vous sur `http://localhost/smartbudget_ai/pages/sign-up.php` pour commencer à tester votre budget IA 🤖💰
+
+---
+
+## 🙌 Contribuer
+
+Tu veux contribuer ? Fork le repo, crée ta branche, et propose un pull request.
+Les idées sont aussi bienvenues via les Issues !
+
+ce3ccfc (Create README.md)
